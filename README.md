@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Said Azmour</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-- 🌱 I’m currently learning **C, java**
+- 🌱 I’m currently learning **java**
 
 - 👨‍💻 All of my projects are available at [https://saidazmour9.github.io/myportfolio/](https://saidazmour9.github.io/myportfolio/)
 
