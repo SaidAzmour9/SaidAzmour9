@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **java**
 
-- 👨‍💻 All of my projects are available at [https://saidazmour9.github.io/myportfolio/](https://portfolio-c50af.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-c50af.web.app/]
 
 - 📝 I regularly write articles on [flustter.com](flustter.com)
 
