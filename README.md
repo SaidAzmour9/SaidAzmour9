@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Said Azmour</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-- 🌱 I’m currently learning **REactjs**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👨‍💻 All of my projects are available at https://portfolio-c50af.web.app/
 
